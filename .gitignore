@@ -4,3 +4,5 @@
 **/simple_ml_models.egg-info/
 **/__pycache__/
 **/.ipynb_checkpoints/
+**/data/
+**/bin/
